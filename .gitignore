@@ -1,0 +1,24 @@
+# http://www.gnu.org/software/automake
+
+.deps
+.libs
+*.lo
+*.o
+*.la
+Makefile
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+
+/autom4te.cache
+/build-aux
+/aclocal.m4
+/compile
+/configure
+/depcomp
+/install-sh
+/missing
+/stamp-h1
+/config.log
+/config.status
+/libtool
